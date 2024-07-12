@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python /kaggle/working/WSI-finetuning/train_stage1.py 
